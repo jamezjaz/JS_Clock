@@ -21,6 +21,9 @@ This is an analog clock designed with JavaScript, HTML and CSS
 - CSS
 - JavaScript
 
+## Live Demo
+- Check the project live [here](http://javascript-clock1.s3-website.us-east-2.amazonaws.com/)
+
 
 ## Installation
 Follow the steps below to test the project locally. First ensure you have a version of [Node.js](http://nodejs.org/) equal or greater than v6.10.0 installed.
